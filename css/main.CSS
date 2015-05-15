@@ -1,0 +1,46 @@
+.page-header {
+	background-image:url('http://www.purlieuinternational.com/assets/Purlieu_Logo_JPG.jpg');
+	height: 100px;
+	background-size: 250px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #dbdbdb;
+}
+.page-header .container li{
+	display: inline;
+}
+.page-header .container a{
+	padding: 14px;
+	font-size: 20px;
+}
+.navbar-brand img{
+	height: auto;
+	width: 70px;
+}
+.pagebody {
+	border-bottom: solid;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYmEFCSidBvrCiqEOaOjpjh4TzrM327-Y3_FEwVoqOFf7zcMa97w);
+}
+.pagebody h1{
+	color: white;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+.form-group label{
+	color: white;
+}
+.pagebody dl{
+	color: white;
+}
+.pagebody label{
+	color: white;
+}
